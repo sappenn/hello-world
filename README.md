@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Startign on GitHub...!
+Starting on GitHub...!
